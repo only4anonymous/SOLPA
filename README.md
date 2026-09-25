@@ -1,8 +1,9 @@
-# ProAct-Helper++
+# SOLPA
 
 Two-stage Perceiver (W1) + Planner (W2) training and evaluation code for
-graph-condiredacted_platformd proactive assistance, extending ProAct-Helper with history
-(H), task-graph (G), and completion-condiredacted_platformd QA (QA) supervision.
+graph-conditioned proactive assistance (Structure-Optional Learning for
+Proactive Assistance), extending ProAct-Helper with history (H), task-graph
+(G), and completion-conditioned QA (QA) supervision.
 
 Due to the double-blind review period, trained checkpoints and datasets are
 not included in this release; only training and evaluation code is provided.
