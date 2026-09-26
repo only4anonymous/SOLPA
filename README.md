@@ -1,5 +1,7 @@
 # SOLPA
 
+![SOLPA teaser](assets/teaser.png)
+
 Two-stage Perceiver (W1) + Planner (W2) training and evaluation code for
 graph-conditioned proactive assistance (Structure-Optional Learning for
 Proactive Assistance), extending ProAct-Helper with history (H), task-graph
