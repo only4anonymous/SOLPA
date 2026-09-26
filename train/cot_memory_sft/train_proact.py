@@ -199,8 +199,8 @@ def _build_inguard_prefix_fn(tokenizer, mgr, task_pred: str, wait_token: str, pr
     return prefix_fn
 
 
-from recurrent_chunking import build_video_chunks
-from recurrent_pipeline_utils import (
+from train.cot_sft_recurrent_v1.recurrent_chunking import build_video_chunks
+from train.cot_sft_recurrent_v1.recurrent_pipeline_utils import (
     build_generation_eval_record,
     hydrate_samples_for_chunking,
 )
